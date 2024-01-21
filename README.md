@@ -2,6 +2,7 @@
 
 This script facilitates the parallelized conversion of an entire music library, comprising WAV or FLAC files, to MP3 format (at 320kb/s).
 The conversion process preserves the complete folder structure and all associated metadata, ensuring a seamless transition.
+The script is designed to be run multiple times, and in case of changes to the input library, it will selectively convert only the files that have not been processed yet, ensuring efficient and seamless updates.
 
 I wrote this script because I prefer FLAC files, but I also have some devices for playing music that do not support the FLAC codec.
 
