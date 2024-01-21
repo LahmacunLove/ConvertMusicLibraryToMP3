@@ -2,7 +2,7 @@
 
 This script facilitates the conversion of an entire music library consisting of WAV or FLAC files to MP3 format (at 320kb/s). The conversion process preserves the complete folder structure and all associated metadata, ensuring a seamless transition.
 
-"I wrote this script because I prefer FLAC files, but I also have some devices for playing music that do not support the FLAC codec."
+I wrote this script because I prefer FLAC files, but I also have some devices for playing music that do not support the FLAC codec.
 
 ## Prerequisites
 
